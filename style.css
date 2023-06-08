@@ -1,0 +1,255 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,700,900);
+.text{ 
+    font-family: 'poppins-bold', Arial, Helvetica, sans-serif !important;
+    font-size: 6.3rem;
+    line-height: 1.333;
+    margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.back{
+    background-color: black;;
+}
+
+.header{
+    width: 100%;;
+    height: 100px;
+    background-color: rgb(244, 255, 145);
+    background-blend-mode: multiply;
+    background-position: fixed;
+    background-size: fixed;
+    padding:0%;
+    position: fixed;
+    transition: 0.3s;
+    
+    
+}
+nav{
+position: sticky;
+top: 0;
+left: 0;
+width: 100%;
+display: flex;
+align-items: center;
+height: 100px;
+border-top: 1px solid rgba(255,255,255,.2);
+border-bottom:  1px solid rgba(255,255,255,.2);;
+
+}
+
+.logo{
+ width: 200px;
+ cursor:pointer;
+ background-size: cover;
+ background-color: #fff;
+ aspect-ratio: 3/2;
+ object-fit: contain;
+ mix-blend-mode:color-burn;
+}
+nav ul{
+    flex: 1;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+      
+
+    .main
+    {
+    background-image:url(images/jimmy-color-bg.webp;) ;
+    position: 100%;
+    background-color:rgba(202, 255, 12, 0.5);
+    background-image: url(images/jimmy-color-bg.webp);
+    height:100vh;
+    width: 100%;
+    padding:0%;
+    font-weight: bold;
+    font:sans-serif;
+   
+   
+
+    
+    
+    
+    }
+        pre{
+        position:absolute;
+        top: 60%;
+        width: 400;
+        padding: 0%;
+        background-color: aqua;  
+        margin: auto;
+    
+         
+        }
+        
+        .ima-ges{
+            background-color: rgb(0, 0, 0);
+            position:absolute;
+            width:max-content;
+            float:none;
+            
+        }        
+        
+       
+            
+        .top
+        {
+            padding-left: 0%;
+            top: 0%;
+        }
+.top2
+{
+    top:65%;
+    text-align: left;
+    font: 1em sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.top3
+{top:95%;
+    text-align: left;
+    font: 1em sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 0%;
+}
+.top4
+{
+    text-align:left;
+    font:sans-serif;
+    font-weight:bold;
+    font-size:15px;
+    padding:0%;
+    top:25%;
+}
+
+
+.top5
+{
+    text-align:left;
+    font:sans-serif;
+    font-weight:bold;
+    font-size:15px;
+    padding:0%;
+    top:25%;
+    left:20%;
+}
+.top6
+{text-align:left;
+    font:sans-serif;
+    font-weight:bold;
+    font-size:15px;
+    padding:0%;
+    top:25%;
+    left:40%;
+
+}
+.top7
+{
+    text-align:left;
+    font:sans-serif;
+    font-weight:bold;
+    font-size:15px;
+    padding:0%;
+    top:25%;
+    left:59%;
+}
+        .top8
+        {
+            text-align: left;
+            font:sans-serif;
+            font-weight:bold;
+            font-size:15px;
+            padding:0%;
+            top:60%;
+            left:0%
+        }
+        .top9
+        {
+            text-align: left;
+            font:sans-serif;
+            font-weight:bold;
+            font-size:15px;
+            padding:0%;
+            top:60%;
+            left:15% 
+        }
+        .top10
+        {text-align: left;
+            font:sans-serif;
+            font-weight:bold;
+            font-size:15px;
+            padding:0%;
+            top:65%;
+            left:33% 
+
+        }
+        .top11
+        {text-align: left;
+            font:sans-serif;
+            font-weight:bold;
+            font-size:15px;
+            padding:0%;
+            top:65%;
+            left:48%; 
+            
+        }
+        .top12{
+     top:87%;
+     text-align: left;
+     font: 1em sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 0%;
+    left:0%
+
+        }
+        .top13
+        { top:87%;
+            text-align: left;
+            font: 1em sans-serif;
+           font-weight: bold;
+           font-size: 15px;
+           padding-left: 0%;
+           left:20%;
+        }
+        .top14
+        {top:93%;
+            text-align: left;
+            font: 1em sans-serif;
+           font-weight: bold;
+           font-size: 15px;
+           padding-left: 0%;
+           left:40%;
+
+        }
+        .top15
+        {
+            top:93%;
+            text-align: left;
+            font: 1em sans-serif;
+           font-weight: bold;
+           font-size: 15px;
+           padding-left: 0%;
+           left:60%;
+
+        }
+        .top16
+        {top:93%;
+            text-align: left;
+            font: 1em sans-serif;
+           font-weight: bold;
+           font-size: 15px;
+           padding-left: 0%;
+           left:82%;
+        
+
+        }
